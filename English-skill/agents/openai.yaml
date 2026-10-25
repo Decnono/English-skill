@@ -1,0 +1,4 @@
+interface:
+  display_name: "专四口语思辨陪练"
+  short_description: "专四口语思辨陪练：给话题与正反参考句型，作答后转写、优化、点评"
+  default_prompt: "Use $english-skill to start a TEM-4 spoken English critical-thinking practice session."
